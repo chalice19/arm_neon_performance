@@ -1,2 +1,1 @@
-# arm_neon_performance
-benchmarks for Arm Neon movemask replacements used to improve ClickHouse
+This repo containes benchmarks using [Google Benchmark ]([url](https://github.com/google/benchmark)) to test performance of several versions for two functions implementations for Arm Neon.
